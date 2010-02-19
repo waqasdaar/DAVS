@@ -1,0 +1,8 @@
+supported_video_codecs="mpegvideo mpeg4 mpeg2video mpeg1video"
+supported_audio_codecs="mp3 mp2 wav amr aac"
+PULSE=/home/waqasdaar/DAVS/pulse
+P2PStreams=/home/waqasdaar/DAVS/pulseStreams
+TCPPORT=33445
+UDPPORT=33446
+HTTPPORT=44556
+IP=192.168.188.41

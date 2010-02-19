@@ -1,0 +1,5 @@
+supported_video_codecs="mpegvideo mpeg4 mpeg2video mpeg1video"
+supported_audio_codecs="mp3 mp2 wav amr aac"
+LIVE555=/home/waqasdaar/live555
+ImagePath=/home/waqasdaar/Images
+PORT=8554
